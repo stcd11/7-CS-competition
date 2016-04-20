@@ -14,16 +14,16 @@
 </div>
 #+END_HTML
 
-* [[file:pages/Lesson_1.html][Best Overall]]
+* [[http://studentweb/~03jw12/][Best Overall]]
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: link-heading
 :END:     
-* [[file:pages/Lesson_2.html][Web Design]]
+* [[http://studentweb/~03jd12/snowboarding.html][Web Design]]
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: link-heading
 :END:
 
-* [[file:pages/Lesson_3.html][Technical Design]]
+* [[http://studentweb/~03je12/new-zealand-1.html][Technical Design]]
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: link-heading
 :END: 
