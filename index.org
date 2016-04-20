@@ -14,7 +14,7 @@
 </div>
 #+END_HTML
 
-* [[file:pages/lesson_1.html][Best Overall]]
+* [[file:pages/Lesson_1.html][Best Overall]]
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: link-heading
 :END:     
